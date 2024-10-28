@@ -23,7 +23,7 @@ I am an undergraduate chemistry student at Akdeniz University with a passion for
 
 #### 🌟 Featured Projects:
 - **[Electrochemistry_Analyzer](https://github.com/BrkySungur/electrochemistry_Analyzer):** A Python software for efficient processing of electrochemical data, enhancing research workflow.
-- **[TheLens-PythonSDK]:** Ongoing project; SDK for **(https://www.lens.org/)** API.
+- **[LensScholarPy](https://github.com/ThinkerAI-Where-AI-and-Academia-Meet/LensScholarPy):**  SDK for **(https://www.lens.org/)** Scholar API.
 
 #### 🎓 Education:
 - **B.S. in Chemistry**  
