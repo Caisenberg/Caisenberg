@@ -3,8 +3,6 @@
 🧪 **Chemistry Enthusiast | 🖥️ Software Developer | 🤖 AI Advocate**
 
 **Email:** 07muratcan@gmail.com  
-**Phone:** +90 545 295 7655  
-
 ---
 
 #### 👨‍🔬 About Me:
